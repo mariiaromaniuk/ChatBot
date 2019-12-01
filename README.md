@@ -1,0 +1,2 @@
+# ChatBot
+Chatbots are typically used in dialog systems for various practical purposes including customer service or information acquisition. Chatbot application in C++ interacts with a user in simple English language and can simulate a conversation. It has a repository/database of facts and rules, which are searched to give the best possible response. Also, I'll try to implement basic AI elements and the open-source speech synthesizer eSpeak to create an audible output (so the chatbot can be available for people with disabilities).
