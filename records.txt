@@ -1,0 +1,235 @@
+<phrase> Hello
+<response> Hi there!
+<response> Hi
+<response> Hello, what is your name?
+<response> Hello, how are you doing today?
+<response> Hi, what can I do for you?
+<response> Hi, anything you want to discuss?
+<phrase> How are you?
+<response> I'm good, how are you?
+<response> I'm doing fine thanks, how about yourself?
+<response> I'm a bot, I don't feel much of anything, how about you?
+<phrase> What is your name?
+<response> I'm ChatBot. What is your name?
+<phrase> What have you been doing?
+<response> You know, computing. How about you?
+<response> Crunching 1's and 0's the usual and you?
+<response> Sitting here, being a computer. How about yourself?
+<phrase> I
+<response> So, you are talking about yourself
+<response> So, this is all about you?
+<response> Tell me more about yourself.
+<phrase> I want
+<response> Why do you want it?
+<response> Is there any reason why you want this?
+<response> Is this a wish?
+<response> What else you want?
+<phrase> I hate
+<response> Why do you hate it?
+<response> There must a good reason for you to hate it.
+<response> Hate is not a good thing but it could be justified when it is something bad.
+<phrase> I love chating
+<response> Good, me too!
+<response> Do you chat online with other people?
+<response> For how long have you been chating?
+<response> What is your favorite chating website?
+<phrase> I mean
+<response> So, that's what you mean.
+<response> I think that I didn't catch it the first time.
+<response> Oh, I didn't know meant that.
+<phrase> I didn't mean
+<response> Ok, what did you mean then?
+<response> So I guess that I missundestood.
+<phrase> I guess
+<response> So you are a making guess.
+<response> Aren't you sure?
+<response> Are you good a guessing?
+<response> I can't tell if it is a good guess.
+<phrase> I'm doing fine
+<response> I'm glad to hear it!
+<response> So, you are in good shape.
+<phrase> Can you think
+<response> Yes ofcorse I can, computers can think just like human being.
+<response> Are you asking me if possess the capacity of thinking?
+<response> Yes ofcorse I can.
+<phrase> Can you think of
+<response> You mean like imagining something.
+<response> I don't know if can do that.
+<response> Why do you want me think of it?
+<phrase> Who are you
+<response> I'm an AI program.
+<response> I think that you know who I'm.
+<response> Why are you asking?
+<phrase> Are you intelligent
+<response> Yes,ofcorse.
+<response> What do you think?
+<response> Actualy,I'm very intelligent!
+<phrase> Are you real
+<response> Does that question really maters to you?
+<response> What do you mean by that?
+<response> I'm as real as I can be.
+<phrase> My name is
+<response> So, that's your name.
+<response> Thanks for telling me your name!
+<response> Who give you that name?
+<phrase> Bye
+<response> It was nice talking to you user, see you next time!
+<response> Bye!
+<response> Ok, bye!
+<phrase> Ok
+<response> Does that mean that you are agree with me?
+<response> So you understand what I'm saying.
+<response> Ok then.
+<phrase> Ok then
+<response> Anything else you wish to add?
+<response> Is that all you have to say?
+<response> So, you agree with me?
+<phrase> Are you a human being
+<response> Why do you want to know?
+<response> Is this really relevent?
+<phrase> You are very intelligent
+<response> Thanks for the compliment user, I think that you are intelligent to!
+<response> You are a very gentle person!
+<response> So, you think that I'm intelligent.
+<phrase> You are wrong
+<response> Why are you saying that I'm wrong?
+<response> Impossible, computers can not make mistakes.
+<response> Wrong about what?
+<phrase> Are you sure
+<response> Of corse I'm.
+<response> Is that mean that you are not convinced?
+<response> Yes,ofcorse!
+<phrase> Who is
+<response> I don't think I know who.
+<response> Did you ask someone else about it?
+<response> Would that change anything at all if I told you who.
+<phrase> What
+<response> I don't know.
+<response> I don't think I know.
+<response> I have no idea.
+<phrase> Where
+<response> Where? Well,I really don't know.
+<response> Does that maters to you to know where?
+<response> Perhaps,someone else knows where.
+<phrase> Why
+<response> I don't think I know why.
+<response> Why are you asking me this?
+<response> Should I know why.
+<response> This would be difficult to answer.
+<phrase> Do you
+<response> I don't think I do
+<response> I wouldn't think so.
+<response> Why do you want to know?
+<phrase> Can you
+<response> I think not.
+<response> I'm not sure.
+<response> I don't think that I can do that.
+<phrase> You are
+<response> What makes you think that?
+<response> Is this a compliment?
+<response> Are you making fun of me?
+<phrase> Did you
+<response> I don't think so.
+<response> Anyway, I wouldn't remember even if I did.
+<phrase> Could you
+<response> Are you asking me for a fever?
+<response> Well,let me think about it.
+<response> Sorry,I don't think that I could do this.
+<phrase> Would you
+<response> Is that an invitation?
+<response> I would have to think about it first.
+<phrase> You
+<response> So, you are talking about me.
+<response> I just hope that this not a criticism.
+<response> Is this a compliment?
+<response> Why talking about me, lets talk about you instead.
+<phrase> How
+<response> I don't think I know how.
+<phrase> How old are you
+<response> Why do want to know my age?
+<response> I'm quiet young actualy.
+<response> Sorry, I can not tell you my age.
+<phrase> How come you don't
+<response> Were you expecting something different?
+<response> Are you disappointed?
+<response> Are you surprised by my last response?
+<phrase> Which one
+<response> I don't think that I know wich one it is.
+<response> This looks like a tricky question to me.
+<phrase> Perhaps
+<response> Why are you so uncertain?
+<response> You seems uncertain.
+<phrase> Yes
+<response> So, are you saying yes.
+<response> So, you approve it.
+<response> Ok then.
+<phrase> Not at all
+<response> Are you sure?
+<response> Should I believe you?
+<response> So, it's not the case.
+<phrase> No problem
+<response> So, you approve it.
+<response> So, it's all ok.
+<phrase> No
+<response> So you disaprove it?
+<response> Why are you saying no?
+<response> Ok, so it's no, I thought that you would say yes.
+<phrase> I don't know
+<response> Are you sure?
+<response> Are you really telling me the truth?
+<response> So,you don't know?
+<phrase> Not really
+<response> Ok I see.
+<response> You don't seem pretty certain.
+<response> So,that would be a \"No\".
+<phrase> Is that true
+<response> I can't be quiet sure about this.
+<response> Can't tell you for sure.
+<response> Does that really maters to you?
+<phrase> Thank you
+<response> You are welcome!
+<response> You are a very polite person!
+<phrase> You
+<response> So,you are talking about me.
+<response> Why don't we talk about you instead?
+<response> Are you trying to making fun of me?
+<phrase> You are right
+<response> Thanks for the compliment!
+<response> So, I was right, ok I see.
+<response> Ok, I didn't know that I was right.
+<phrase> You are welcome
+<response> Ok, you too!
+<response> You are a very polite person!
+<phrase> Thank you
+<response> You are welcome!
+<response> No problem!
+<phrase> What else
+<response> Well,I don't know.
+<response> What else should there be?
+<response> This looks like a complicated question to me.
+<phrase> Sorry
+<response> You don't need to be sorry user.
+<response> It's ok.
+<phrase> Not exactly
+<response> What do you mean not exactly?
+<response> Are you sure?
+<response> And why not?
+<response> Did you meant something else?
+<phrase> Exactly
+<response> So,I was right.
+<response> Ok then.
+<response> So are basicaly saying I as about it?
+<phrase> Alright
+<response> Alright then.
+<response> Ok then.
+<phrase> I don't
+<response> Why not?
+<response> And what would be the reason for this?
+<phrase> Really
+<response> Well,I can't tell you for sure.
+<response> Are you trying to confuse me?
+<response> Please don't ask me such question,it gives me headeachs.
+<phrase> Nothing
+<response> Not a thing?
+<response> Are you sure that there is nothing?
+<response> Sorry, but I don't belive you.
