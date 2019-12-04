@@ -3,9 +3,11 @@
   Chatbot Application in C++
 
   Created by Mariia Romaniuk
-  Instructor: Dr. Azhar
 
-  Chatbots are typically used in dialog systems for various practical purposes including customer service or information acquisition. Chatbot application in C++ interact with user in simple English language and can simulate a conversation. It has a repository or database of facts and rules, which are searched to give the best possible response.
+  Chatbots are typically used in dialog systems for various practical purposes including customer service or 
+  information acquisition. Chatbot application in C++ interact with user in simple English language and can 
+  simulate a conversation. It has a repository or database of facts and rules, which are searched to give the 
+  best possible response.
 */
 
 #include "record.hpp"
